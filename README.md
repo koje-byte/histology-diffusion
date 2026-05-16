@@ -1,4 +1,4 @@
-# 🔬 Targeted Diffusion-Based Synthetic Augmentation for Histological Imaging
+#  Targeted Diffusion-Based Synthetic Augmentation for Histological Imaging
 
 **Deep Learning Capstone:** Evaluating the computational ROI of diffusion-based augmentation. An analysis of inference time complexity versus downstream classification impact in histological imaging.
 
