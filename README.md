@@ -1,3 +1,4 @@
+
 #  Targeted Diffusion-Based Synthetic Augmentation for Histological Imaging
 
 **Deep Learning Capstone:** Evaluating the computational ROI of diffusion-based augmentation. An analysis of inference time complexity versus downstream classification impact in histological imaging.
@@ -17,6 +18,12 @@ Rather than employing naive data-balancing—which risks introducing synthetic n
 * **STR (Stroma):** +3,000 images to break severe confusion boundaries with Muscle tissue.
 * **NORM (Normal):** +2,237 images to act as a defensive mathematical buffer against Tumor false negatives.
 * **MUC (Mucus):** +2,104 images to safely elevate the minority class and prevent volume deficits.
+## F1 & accuracy score before augmentaion 
+<img width="802" height="781" alt="Screenshot 2026-05-14 164834" src="https://github.com/user-attachments/assets/8b47f921-6236-426e-a7ac-7ac8d030444d" /><img width="376" height="248" alt="Screenshot 2026-05-14 164854" src="https://github.com/user-attachments/assets/bdf9b90f-f8b1-4124-bbbb-ac8662451ecb" />
+## F1 & accuracy score after augmentaion 
+<img width="383" height="224" alt="Screenshot 2026-05-14 165923" src="https://github.com/user-attachments/assets/72ce0a8e-711a-476e-b062-44a36be0ac9b" />
+<img width="818" height="765" alt="Screenshot 2026-05-14 165856" src="https://github.com/user-attachments/assets/d11ba758-4e94-4792-92c1-0eaadf13a451" />
+
 
 ---
 
