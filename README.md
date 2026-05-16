@@ -35,6 +35,9 @@ To ensure the synthetic images converged with real biological textures, KID scor
 | **60** | 0.03827 | 0.02223 | 0.0562 |
 | **80** |  0.02992 | **0.01686** | 0.04397 |
 | **100** | **0.02416** |  0.01943 | **0.0382** |
+<img width="935" height="391" alt="Screenshot 2026-05-16 173954" src="https://github.com/user-attachments/assets/6015cbc0-6aa5-46e6-a05c-4f3bb799cc99" />
+<img width="937" height="390" alt="Screenshot 2026-05-16 173921" src="https://github.com/user-attachments/assets/ccefbb8b-9fe7-4dad-b7ab-c86a3dddd252" />
+<img width="940" height="388" alt="Screenshot 2026-05-16 173818" src="https://github.com/user-attachments/assets/97d65674-d0a2-43e6-9f1f-2fbe66d50247" />
 
 ## ⏱️ 2. Systems Evaluation: Time & Compute Complexity
 Generative AI introduces a significant computational bottleneck. This project evaluated the exact time complexity required for histological data augmentation to weigh the compute cost against classification ROI.
