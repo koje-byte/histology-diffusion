@@ -43,6 +43,8 @@ To ensure the synthetic images converged with real biological textures, KID scor
 Generative AI introduces a significant computational bottleneck. This project evaluated the exact time complexity required for histological data augmentation to weigh the compute cost against classification ROI.
 
 * **Standardized Training Cost:** ~3.49 seconds per image.
+* **Average time per single image:** 14.598 seconds
+* **Generation Speed:** 0.07 images / second
 
 ## 🚀 3. Impact on Downstream Classification
 The generated diffusion data was fed into a ResNet50 classifier. The targeted synthetic data created a symbiotic ripple effect across the network architecture:
